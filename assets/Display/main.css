@@ -1,0 +1,42 @@
+#hero {
+  height: 400px;
+}
+
+#hero h2 {
+  font-size: 40px;
+}
+
+a img {
+  width: 65%;
+  height: fit-content;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding-bottom: 15px;
+}
+
+h3 {
+  text-align: justify;
+  text-justify: inter-word;
+  color: rgb(4, 16, 36);
+  font-size: 25px;
+}
+
+h1 {
+  text-align: justify;
+  text-justify: inter-word;
+  color: rgb(4, 16, 36);
+  font-weight: bolder;
+  padding-bottom: 50px;
+}
+
+/* body {
+  background-color: rgba(0, 60, 95, 0.246);
+} */
+
+footer {
+  text-align: justify;
+  text-justify: inter-word;
+  color: rgb(4, 16, 36);
+}
+
