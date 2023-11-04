@@ -35,5 +35,6 @@ Feel free to fork this project, submit pull requests, or send suggestions to bil
 ## Support
 If you encounter any problems, please file an issue along with a detailed description.
 
+## Words of Encouragement
 > "Jump into the world of web development with Berita Nyantui, where every story you post, edit, or delete enriches your understanding of content management systems. This is more than a project; it's a canvas for your development skills. So get involved, write some code, and make your mark on the news world!"
 
